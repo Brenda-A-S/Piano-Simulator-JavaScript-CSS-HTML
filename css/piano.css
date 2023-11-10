@@ -22,6 +22,12 @@ body {
     font-size: 2rem;
 }
 
+.menu label {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
 .column span {
     font-weight: 500;
     font-size: 1.2rem;
